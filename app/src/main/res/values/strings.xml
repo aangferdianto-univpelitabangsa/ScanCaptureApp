@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">Scan Capture</string>
+
+    <!-- Navigation -->
+    <string name="nav_home">Beranda</string>
+    <string name="nav_history">Riwayat</string>
+    <string name="nav_profile">Profil</string>
+
+    <!-- Common -->
+    <string name="back">Kembali</string>
+    <string name="copy">Salin</string>
+    <string name="save">Simpan</string>
+    <string name="loading">Memuat…</string>
+    <string name="processing">Memproses…</string>
+    <string name="not_available">-</string>
+    <string name="user_default_name">Pengguna</string>
+
+    <!-- Splash -->
+    <string name="splash_logo_desc">Logo Scan Capture</string>
+    <string name="splash_tagline">Pemindai Dokumen AI</string>
+
+    <!-- Auth -->
+    <string name="welcome_back">Selamat Datang Kembali</string>
+    <string name="sign_in_subtitle">Masuk ke Scan Capture</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="name">Nama</string>
+    <string name="confirm_password">Konfirmasi Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="signing_in">Sedang masuk…</string>
+    <string name="creating_account">Membuat akun…</string>
+    <string name="no_account_register">Belum punya akun? Daftar</string>
+    <string name="create_account">Buat Akun</string>
+    <string name="create_account_subtitle">Bergabung dengan Scan Capture untuk menyimpan hasil pindaian</string>
+
+    <!-- Validation -->
+    <string name="error_email_required">Email wajib diisi</string>
+    <string name="error_email_invalid">Format email tidak valid</string>
+    <string name="error_password_required">Kata sandi wajib diisi</string>
+    <string name="error_password_min_length">Kata sandi minimal 6 karakter</string>
+    <string name="error_name_required">Nama wajib diisi</string>
+    <string name="error_name_min_length">Nama minimal 2 karakter</string>
+    <string name="error_confirm_password_required">Harap konfirmasi kata sandi</string>
+    <string name="error_passwords_mismatch">Kata sandi tidak cocok</string>
+    <string name="error_login_failed">Gagal masuk</string>
+    <string name="error_registration_failed">Gagal mendaftar</string>
+
+    <!-- Home -->
+    <string name="home_subtitle">Ambil foto dokumen dan ekstrak teks secara instan</string>
+    <string name="open_camera">Buka Kamera</string>
+    <string name="extracted_text">Teks Hasil Ekstraksi</string>
+    <string name="copy_text">Salin Teks</string>
+    <string name="export_pdf">Ekspor sebagai PDF</string>
+    <string name="extracting_text">Mengekstrak dan membersihkan teks…</string>
+    <string name="extract_text">Ekstrak Teks</string>
+    <string name="reprocess_ocr">Pindai Ulang</string>
+    <string name="retake_photo">Ambil Ulang Foto</string>
+    <string name="enhance_scan">Tingkatkan Pindaian</string>
+    <string name="enhance_scan_subtitle">Kontras, ambang adaptif, dan koreksi kemiringan sebelum OCR</string>
+    <string name="ocr_language">Bahasa OCR</string>
+    <string name="ocr_lang_auto">Otomatis</string>
+    <string name="ocr_lang_indonesian">Indonesia</string>
+    <string name="ocr_lang_english">Inggris</string>
+    <string name="scan_mode">Mode pindaian</string>
+    <string name="scan_mode_document">Dokumen</string>
+    <string name="scan_mode_receipt">Struk</string>
+    <string name="scan_mode_handwriting">Tulisan tangan</string>
+    <string name="scan_preview_title">Pratinjau dokumen</string>
+    <string name="edit_text_hint">Anda dapat mengedit teks sebelum menyimpan atau mengekspor.</string>
+    <string name="blur_warning_title">Foto mungkin buram</string>
+    <string name="blur_warning_message">Gambar tampak kurang tajam. Ambil ulang foto dengan pencahayaan baik dan tahan perangkat stabil untuk hasil OCR lebih akurat.</string>
+    <string name="continue_anyway">Lanjutkan</string>
+    <string name="error_ocr_failed">OCR gagal</string>
+    <string name="error_no_text_to_save">Tidak ada teks untuk disimpan</string>
+    <string name="error_no_text_to_export">Tidak ada teks untuk diekspor</string>
+    <string name="saved_to_history">Disimpan ke riwayat</string>
+    <string name="pdf_export_title">Ekspor Scan Capture</string>
+    <string name="pdf_saved">PDF disimpan: %1$s</string>
+    <string name="pdf_saved_success">PDF berhasil disimpan ke Documents/ScanCapture/%1$s</string>
+    <string name="generating_pdf">Membuat PDF…</string>
+    <string name="error_pdf_export_failed">Gagal mengekspor PDF</string>
+    <string name="error_pdf_permission_denied">Izin penyimpanan diperlukan untuk menyimpan PDF</string>
+    <string name="clipboard_scan_text">teks_pindaian</string>
+
+    <!-- History -->
+    <string name="history_empty_title">Belum ada riwayat pindaian</string>
+    <string name="history_empty_subtitle">Hasil pindaian yang disimpan akan muncul di sini</string>
+    <string name="scan_preview">Pratinjau pindaian</string>
+    <string name="scan_detail">Detail Pindaian</string>
+    <string name="scan_image">Gambar pindaian</string>
+    <string name="clipboard_history_text">teks_riwayat</string>
+    <string name="clipboard_scan_detail">detail_pindaian</string>
+
+    <!-- Profile -->
+    <string name="profile_subtitle">Detail akun Anda</string>
+    <string name="logout">Keluar</string>
+    <string name="language_title">Bahasa</string>
+    <string name="language_indonesian">🇮🇩 Bahasa Indonesia</string>
+    <string name="language_english">🇺🇸 English</string>
+    <string name="language_sheet_title">Pilih Bahasa</string>
+    <string name="language_icon_desc">Bahasa</string>
+    <string name="language_indonesian_short">🇮🇩 ID</string>
+    <string name="language_english_short">🇺🇸 EN</string>
+    <string name="about_title">Tentang Aplikasi</string>
+    <string name="about_subtitle">Scan Capture v1.0</string>
+    <string name="about_message">Scan Capture adalah pemindai dokumen dengan OCR pintar. Ambil foto, ekstrak teks, simpan riwayat, dan ekspor PDF.</string>
+    <string name="view_details">Lihat detail</string>
+    <string name="ok">OK</string>
+    <string name="history_count">%1$d pindaian tersimpan</string>
+
+    <!-- Camera -->
+    <string name="capturing">Mengambil foto…</string>
+    <string name="flash">Flash</string>
+    <string name="gallery">Galeri</string>
+    <string name="switch_camera">Ganti kamera</string>
+    <string name="capture">Ambil foto</string>
+    <string name="grant_permission">Berikan izin</string>
+    <string name="go_back">Kembali</string>
+    <string name="camera_permission_rationale">Akses kamera diperlukan untuk memindai dokumen.</string>
+    <string name="camera_permission_denied">Izin kamera ditolak. Aktifkan di Pengaturan untuk melanjutkan.</string>
+    <string name="error_camera_not_ready">Kamera belum siap. Mohon tunggu.</string>
+    <string name="error_camera_not_available">Kamera tidak tersedia di perangkat ini</string>
+    <string name="error_camera_start_failed">Gagal memulai kamera</string>
+    <string name="error_cannot_create_output_dir">Tidak dapat membuat folder output</string>
+    <string name="error_capture_empty_file">Pengambilan gagal: file kosong</string>
+    <string name="error_capture_failed_code">Pengambilan gagal (kode %1$d)</string>
+    <string name="error_capture_unexpected">Kesalahan pengambilan tidak terduga</string>
+    <string name="error_gallery_import_failed">Gagal memuat gambar dari galeri</string>
+
+    <!-- Crop -->
+    <string name="crop_document">Potong Dokumen</string>
+    <string name="apply_crop">Terapkan potongan</string>
+    <string name="image_to_crop">Gambar untuk dipotong</string>
+    <string name="crop_hint">Seret untuk menyesuaikan area potong, lalu ketuk Terapkan</string>
+    <string name="apply_and_scan">Terapkan &amp; Pindai</string>
+
+    <!-- OCR -->
+    <string name="error_no_text_detected_hint">Tidak ada teks terdeteksi. Coba pencahayaan lebih baik atau foto lebih jelas.</string>
+    <string name="error_no_text_detected">Tidak ada teks terdeteksi pada gambar.</string>
+    <string name="error_could_not_load_image_ocr">Tidak dapat memuat gambar untuk OCR</string>
+    <string name="error_cannot_read_gallery_image">Tidak dapat membaca gambar dari galeri</string>
+    <string name="error_failed_load_image_crop">Gagal memuat gambar untuk dipotong</string>
+
+    <!-- Startup -->
+    <string name="startup_error_message">Aplikasi gagal dimuat. Silakan buka ulang.</string>
+</resources>

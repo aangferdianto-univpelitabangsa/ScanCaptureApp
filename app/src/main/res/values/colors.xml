@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="gradient_cream">#FFFFF7E6</color>
+    <color name="gradient_light_orange">#FFFFD6A5</color>
+    <color name="gradient_soft_coral">#FFFFB4A2</color>
+    <color name="gradient_pink">#FFF78FB3</color>
+    <color name="gradient_deep_pink">#FFE85D75</color>
+    <color name="primary_rose">#FFE85D75</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
